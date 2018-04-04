@@ -1,4 +1,4 @@
-2048-android----
+2048-android
 ============
 
 [![Build Status](https://travis-ci.org/uberspot/2048-android.svg?branch=master)](https://travis-ci.org/uberspot/2048-android)
